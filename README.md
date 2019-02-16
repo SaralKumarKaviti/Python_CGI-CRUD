@@ -48,24 +48,24 @@
 
    - Now Open any browser
    	 ##### For table creating:
-   			<localhost:8000/cgi-bin/create.py>
+   		   <localhost:8000/cgi-bin/create.py>
 
-   	##### For inserting values in table:
-   			<localhost:8000/insert.html>
+   	 ##### For inserting values in table:
+   		   <localhost:8000/insert.html>
 
-   	##### For deleting the values from table:
-   			<localhost:8000/delete.html>
+   	 ##### For deleting the values from table:
+   		   <localhost:8000/delete.html>
 
-   	##### For updating the values in table:
-   			<localhost:8000/edit.html>
+   	 ##### For updating the values in table:
+   		   <localhost:8000/edit.html>
 
-   			##### After entered above updating url it will action to **edit.py** file to **update.py** then url look like below format
-   			<localhost:8000/cgi-bin/edit.py>
+   		   ##### After entered above updating url it will action to **edit.py** file to **update.py** then url look like below format
+   		   <localhost:8000/cgi-bin/edit.py>
 
-   			<localhost:8000/cgi-bin/update.py>
+   		   <localhost:8000/cgi-bin/update.py>
 
-   	##### For reading data from table:
-   			<localhost:8000/cgi-bin/read.py>
+   	 ##### For reading data from table:
+   		   <localhost:8000/cgi-bin/read.py>
 
 
 
