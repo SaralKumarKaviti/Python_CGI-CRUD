@@ -47,7 +47,7 @@
    		#### python -m http.server 8000 --cgi
 
    - Now Open any browser
-   	##### For table creating:
+   	 ##### For table creating:
    			<localhost:8000/cgi-bin/create.py>
 
    	##### For inserting values in table:
@@ -67,7 +67,7 @@
    	##### For reading data from table:
    			<localhost:8000/cgi-bin/read.py>
 
-   			
+
 
 
 
