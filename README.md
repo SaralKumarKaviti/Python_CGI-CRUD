@@ -59,7 +59,7 @@
    	 ##### For updating the values in table:
    		   <localhost:8000/edit.html>
 
-   		   ##### After entered above updating url it will action to **edit.py** file to **update.py** then url look like below format
+   	 ##### After entered above updating url it will action to **edit.py** file to **update.py** then url look like below format
    		   <localhost:8000/cgi-bin/edit.py>
 
    		   <localhost:8000/cgi-bin/update.py>
